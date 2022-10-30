@@ -1,8 +1,8 @@
 - 👋 Hello World, I’m @adampattersonct
 - 👀 I’m interested in Machine Learning, Econometrics, Deep Learning, and Data Science
 - 🌱 I’m currently a researcher in both the Agricultural and Resource Economics and Economics department at the University of Connecticut
-- ✍️  I am also enrolled in a MS in Data Science program while I completed an MS in Quantitative Economics December 2020
-- 🤝 I’m looking to collaborate on applications of Machine Learning in Health and Environmental Economics. 
+- ✍️  I have completed an MS in Quantitative Economics
+- 🤝 As I primarily code individually on research, I will use this platform to promote my work 
 - 📫 You can reach me at adamleopatterson@gmail.com 
 
 <!---
