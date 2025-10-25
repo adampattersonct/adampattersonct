@@ -1,7 +1,8 @@
 - 👋 Hello World, I’m @adampattersonct
 - 🤝 Currently an Economist Apprentice at Amazon in Seattle, WA
 - 🌱 Also a research technician in the Economics department at the University of Connecticut
-- 👀 Interested in Applied Economics, Causal Inference, and Data Science
+- 👀 Interested in Applied Economics, Causal Inference, Data Science, LLM Evaluation
+- 👨‍💻 Inspired by engineering science solutions to generate insights at scale
 - ✍️ Completed an MS in Quantitative Economics and an MS in Data Science
 - 🤝 As the work that I do at Amazon is confidential, I will use this platform to promote my personal work/research
 - 📫 You can reach me at adamlpattersoni@gmail.com
