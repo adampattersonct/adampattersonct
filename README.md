@@ -10,8 +10,5 @@
 
 💡 Since my work at Amazon is confidential, I use this platform to **share and promote my personal research and data science projects.**
 
-📫 You can reach me at adamlpattersoni@gmail.com
-🤗 My hugging face profile is https://huggingface.co/adamPatterson
-
 *Last updated: 10-31-25*
 
